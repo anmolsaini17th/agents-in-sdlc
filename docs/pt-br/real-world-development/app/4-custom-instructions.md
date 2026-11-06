@@ -68,7 +68,7 @@ Embora os arquivos existentes sejam um bom começo, ainda há algumas lacunas. V
 3. Adicione o seguinte como o último item abaixo desse cabeçalho:
 
    ```plaintext
-   All new TypeScript should contain TSDocs comments for documentation purposes.
+   Todo novo código TypeScript deve incluir comentários TSDoc para fins de documentação.
    ```
 
 O arquivo é salvo automaticamente e está pronto para uso!
